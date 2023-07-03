@@ -1,0 +1,17 @@
+#Career Changes
+
+What do you want to be when you grow up?
+
+This is a question that every little kid hears when they are growing up and then there is this part existential and part practical question that forms in the mind.
+
+What do I want to be when I grow up?
+
+My stock answer was normally that I needed to grow up first, because in reality the way my brain works, this is a very difficult question.  When I was young, there were so many things that would capture my attention and my imagination, and I knew in those moments that I just needed to do that specific job "when I grew up".
+
+Now as an adult I have definitely done a few things.  I spent time as a sound engineer for live show, which I absolutely loved this job.  At the same time, I spent time working with a production house that developed commercials for business clients, and this too was really great.  Later I was a General Manager for restaurants, and even though that was a difficult life, I really liked the aspects of running a business.
+
+The one thing that really jumps out to me is that there was a lot of change during this time and especially when I was younger I felt like I was lost.  Later in life, when I could finally get away from all of these thoughts of what I should do with my life and my career, I started to take time to listen to myself.  I started to analyze what were the things that I enjoyed about all of the things that I've done in the past.  From sound engineering and the production company, I learned that I liked being technical and creative.  Also, from running the restaurants, I learned that I really liked running a business.  So when I was analyzing myself, I was thinking, "What could I could I do that is creative, technical and run a business?"  Programming and especially web development stood out to me as a very strong possibility.
+
+I know that recently, there are more and more people that are starting to become more interested in programming more later in life.  I hope that when I write, I can write to you who are wondering what to do.  Wondering if you are making the right decision to try this new technical career that can be so scary and intimidating.  There are times when we are learning to code that it is very easy to get very frustrating and confusing and discouraging.  I think all of these moments are very normal.  You hear about these guys that finish a program and learn how to code and get a job in three to six months, and you wonder why am I not smart like that.  Don't worry, we are kindred spirits.  You are not alone.  Don't give up.  Maybe you also wonder, "Can I really start a new career at my age?"  "Will they think I'm too old to be a junior developer?"  "How do I feel being a junior anything?"  Again, you are not alone.  These thoughts are normal but that does not mean that we cannot go through this time and come out successful on the other end.
+
+You know there is a very famous quote by JRR Tolkien, "Not all who wander are lost."  Even though maybe at a certain time that quote seemed a little cliche in the past, I think that quote definitely applies to many of us today and now.  We have taken a long path to get to where we are now, but you know what?  All of that experience that we have in the past, we can use that and channel that into our new lives and new careers in the future.  It is ok.  It is never too late to start.  Just start and don't stop once you have.
